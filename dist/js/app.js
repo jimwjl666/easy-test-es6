@@ -1,0 +1,1 @@
+"use strict";function _interopRequireDefault(e){return e&&e.__esModule?e:{default:e}}var _test=require("./test.js"),_test2=_interopRequireDefault(_test),obj={a:1,b:2,c:3};Object.keys(obj).forEach(function(e){console.log(obj[e])}),console.log(Object.entries(obj));
