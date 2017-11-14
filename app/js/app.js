@@ -9,3 +9,4 @@ Object.keys(obj).forEach((key) =>
 });
 
 console.log( Object.entries(obj)); //[[a,1],[b,2],[c,3]]
+console.log(1,2);
